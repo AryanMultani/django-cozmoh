@@ -11,5 +11,6 @@ class Site(models.Model):
     return self.site_url
 
 
-
+  class Meta:
+    verbose_name="In Progres"
 

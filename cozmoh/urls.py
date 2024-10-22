@@ -20,7 +20,7 @@ from django.urls import path, include
 
 
 admin.site.site_header = "Cozmoh Pixel"
-admin.site.site_title = "Welcome to Cozmoh"
+admin.site.site_title = "Cozmoh Pixel"
 admin.site.index_title = "Cozmoh Portal"
 
 
